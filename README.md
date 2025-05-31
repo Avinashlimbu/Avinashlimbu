@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Avi 👋
 
-<!--
-**Avinashlimbu/Avinashlimbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Digital Marketing Manager and Paid Media Expert with 5+ years of experience driving results for global brands. 
+Passionate about blending marketing expertise with technology, I’m currently expanding my skills by learning JavaScript through the Odin Project.
 
-Here are some ideas to get you started:
+- 🎯 Experienced in managing large-scale paid media campaigns across Display, Video, OTT, and Social channels  
+- 💻 Building websites and exploring web development as a hobby  
+- 📊 Interested in data analytics to better connect marketing insights with technical solutions  
+- 🌏 Bilingual: English & Japanese (JLPT N1)  
+- 🚀 Always eager to learn, grow, and bridge the gap between marketing and tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repositories and projects here, and connect with me!
+
+---
+
+## Skills & Tools
+
+- Development: HTML, CSS, JavaScript (learning), Python (basics) 
+- Paid Media Platforms: Google Ads, Meta Ads, TikTok Ads, X Ads, LINE, OTT, DOOH  
+- Analytics & Marketing Tools: Google Analytics, Google Tag Manager, CM360, SEMrush, Intercom  
+- Design: Adobe Creative Cloud, Figma, Sketch
+
+---
+
+Thanks for visiting my profile!
