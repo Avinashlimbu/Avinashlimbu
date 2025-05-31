@@ -1,7 +1,7 @@
 # Hi there, I'm Avi 👋
 
 I’m a Digital Marketing Manager and Paid Media Expert with 5+ years of experience driving results for global brands. 
-Passionate about blending marketing expertise with technology, I’m currently expanding my skills by learning JavaScript through the Odin Project.
+Passionate about blending marketing expertise with technology, I’m currently expanding my skills by learning JavaScript through [The Odin Project](https://www.theodinproject.com/)
 
 - 🎯 Experienced in managing large-scale paid media campaigns across Display, Video, OTT, and Social channels  
 - 💻 Building websites and exploring web development as a hobby  
